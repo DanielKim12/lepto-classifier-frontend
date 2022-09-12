@@ -1,0 +1,30 @@
+Client: PaolaClark
+Patient Number: 5824
+weight: 28.7
+Breed Group: Beagle
+Sex: Male
+sodium: 144
+Potassium: 5.2
+Chloride: 99
+Phosphorous: 7.5
+Calcium: 11.0
+Bun: 7330
+Creatinine: 2.4
+Glucose: 130
+Total Protein: 6.20.2
+Albumin: 3.4
+Globulin: 2.8
+ALT: 308
+AST: 34
+ALP: 2558
+Cholesterol: 283
+Bilirubin: 
+Hct: 27
+HGB: 8.6
+MCV: 75
+WBC: 15.9
+Bands: 0
+Neut: 83
+Lymph: 11
+Mono: 6
+Eosin: 0
