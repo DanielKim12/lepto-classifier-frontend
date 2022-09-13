@@ -1,3 +1,0 @@
-result
-positive
-1
